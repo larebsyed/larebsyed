@@ -21,7 +21,7 @@ I build and lead teams that create impactful products. My focus areas:
 
 ## Experience Highlights
 
-### LabXChange (Harvard/Amgen Initiative)
+### <img src="https://www.labxchange.org/assets/images/labxchange-logo-trim.svg" height="28" alt="LabXChange" /> LabXChange (Harvard/Amgen Initiative)
 *Tech Lead | 2018 - Present*
 
 Leading frontend architecture for an educational platform serving millions of learners worldwide. Built interactive science simulations, real-time collaboration features, and scalable content delivery systems.
@@ -30,14 +30,18 @@ Leading frontend architecture for an educational platform serving millions of le
 
 **Impact:** Platform serves 5M+ users across 190+ countries
 
-### Cresta AI
+---
+
+### <img src="https://github.com/user-attachments/assets/2b3ed73a-0e30-4fa4-a042-a5873c7ee24d" height="28" alt="Cresta" /> Cresta AI
 *Senior Engineer*
 
 Contributed to AI-powered sales coaching platform. Built real-time conversation analysis features and agent performance dashboards.
 
 [![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/1e311012-3182-4ef4-9931-da972e21abcc.svg)](https://wakatime.com/@larebsyed)
 
-### Marveri
+---
+
+### <img src="https://cdn.prod.website-files.com/67892488057da638c6466d07/67911acb6317a495c4abfcc6_marveri.png" height="28" alt="Marveri" /> Marveri
 *Senior Engineer*
 
 Developed legal tech solutions for contract analysis and document automation.
