@@ -123,12 +123,12 @@ React hook for creating interactive demos with mouse movement
 
 <p align="center">
   <a href="https://wakatime.com/@larebsyed">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Wakatime Stats" />
+    <img src="https://wakatime.com/share/@larebsyed/aa9bfa7b-68d9-43e0-bf95-4cc0a4d6d2d3.svg" height="300" alt="Wakatime Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larebsyed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=larebsyed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -139,22 +139,24 @@ React hook for creating interactive demos with mouse movement
   <img src="https://github-profile-trophy.vercel.app/?username=larebsyed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
-### Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=larebsyed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</p>
-
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=default&hide_border=true&layout=compact&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
