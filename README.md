@@ -26,7 +26,7 @@ I build and lead teams that create impactful products. My focus areas:
 
 Leading frontend architecture for an educational platform serving millions of learners worldwide. Built interactive science simulations, real-time collaboration features, and scalable content delivery systems.
 
-[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018e46c8-baa0-4177-9b97-24c2f6784485.svg)](https://wakatime.com/@larebsyed)
+[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018e46c8-baa0-4177-9b97-24c2f6784485.svg?label=labxchange&style=for-the-badge&color=grey)](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018b1f34-8c7d-4513-9bfb-27cfb83a0f12)
 
 **Impact:** Platform serves 5M+ users across 190+ countries
 
@@ -37,7 +37,7 @@ Leading frontend architecture for an educational platform serving millions of le
 
 Contributed to AI-powered sales coaching platform. Built real-time conversation analysis features and agent performance dashboards.
 
-[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/1e311012-3182-4ef4-9931-da972e21abcc.svg)](https://wakatime.com/@larebsyed)
+[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/1e311012-3182-4ef4-9931-da972e21abcc.svg?style=for-the-badge&label=Cresta)](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/1e311012-3182-4ef4-9931-da972e21abcc?style=plastic&label=Cresta)
 
 ---
 
@@ -46,7 +46,7 @@ Contributed to AI-powered sales coaching platform. Built real-time conversation 
 
 Developed legal tech solutions for contract analysis and document automation.
 
-[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018b1f34-8c7d-4513-9bfb-27cfb83a0f12.svg)](https://wakatime.com/@larebsyed)
+[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018b1f34-8c7d-4513-9bfb-27cfb83a0f12.svg?style=for-the-badge&label=Marveri)](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/1e311012-3182-4ef4-9931-da972e21abcc?style=plastic&label=Marveri)
 
 ---
 
@@ -119,45 +119,19 @@ React hook for creating interactive demos with mouse movement
 
 ---
 
-## Coding Activity
+## Stats
 
-<p align="center">
-  <a href="https://wakatime.com/@larebsyed">
-    <img src="https://wakatime.com/share/@larebsyed/aa9bfa7b-68d9-43e0-bf95-4cc0a4d6d2d3.svg" height="300" alt="Wakatime Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=larebsyed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=larebsyed&theme=dark&hide_border=false)
 
 ---
 
 ## Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larebsyed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=larebsyed&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
----
+### Top Contributed Repo
 
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=default&hide_border=true&layout=compact&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </picture>
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=larebsyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
