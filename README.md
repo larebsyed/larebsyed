@@ -94,11 +94,28 @@ Developed legal tech solutions for contract analysis and document automation.
 
 ## Open Source
 
-I maintain several npm packages and contribute to open-source projects:
+I maintain several npm packages:
 
-- **[use-pretty-elapsed-time](https://github.com/larebsyed/use-pretty-elapsed-time)** — React hook for human-readable time formatting
-- **[use-incremental-state](https://github.com/larebsyed/use-incremental-state)** — React hook for incremental state management
-- **[use-demo-pointer](https://github.com/larebsyed/use-demo-pointer)** — React hook for creating interactive demos
+### use-pretty-elapsed-time
+React hook for human-readable time formatting
+
+[![npm](https://img.shields.io/npm/v/use-pretty-elapsed-time?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/use-pretty-elapsed-time)
+[![npm downloads](https://img.shields.io/npm/dm/use-pretty-elapsed-time?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/use-pretty-elapsed-time)
+[![GitHub](https://img.shields.io/github/stars/larebsyed/use-pretty-elapsed-time?style=for-the-badge&logo=github&color=181717)](https://github.com/larebsyed/use-pretty-elapsed-time)
+
+### use-incremental-state
+React hook for incremental state management
+
+[![npm](https://img.shields.io/npm/v/use-incremental-state?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/use-incremental-state)
+[![npm downloads](https://img.shields.io/npm/dm/use-incremental-state?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/use-incremental-state)
+[![GitHub](https://img.shields.io/github/stars/larebsyed/use-incremental-state?style=for-the-badge&logo=github&color=181717)](https://github.com/larebsyed/use-incremental-state)
+
+### use-demo-pointer
+React hook for creating interactive demos with mouse movement
+
+[![npm](https://img.shields.io/npm/v/use-demo-pointer?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/use-demo-pointer)
+[![npm downloads](https://img.shields.io/npm/dm/use-demo-pointer?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/use-demo-pointer)
+[![GitHub](https://img.shields.io/github/stars/larebsyed/use-demo-pointer?style=for-the-badge&logo=github&color=181717)](https://github.com/larebsyed/use-demo-pointer)
 
 ---
 
