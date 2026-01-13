@@ -26,6 +26,8 @@ I build and lead teams that create impactful products. My focus areas:
 
 Leading frontend architecture for an educational platform serving millions of learners worldwide. Built interactive science simulations, real-time collaboration features, and scalable content delivery systems.
 
+[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018e46c8-baa0-4177-9b97-24c2f6784485.svg)](https://wakatime.com/@larebsyed)
+
 **Impact:** Platform serves 5M+ users across 190+ countries
 
 ### Cresta AI
@@ -33,10 +35,14 @@ Leading frontend architecture for an educational platform serving millions of le
 
 Contributed to AI-powered sales coaching platform. Built real-time conversation analysis features and agent performance dashboards.
 
+[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/1e311012-3182-4ef4-9931-da972e21abcc.svg)](https://wakatime.com/@larebsyed)
+
 ### Marveri
 *Senior Engineer*
 
 Developed legal tech solutions for contract analysis and document automation.
+
+[![wakatime](https://wakatime.com/badge/user/3cb3afdb-7ae5-40a1-9de9-b2a4a44eefdd/project/018b1f34-8c7d-4513-9bfb-27cfb83a0f12.svg)](https://wakatime.com/@larebsyed)
 
 ---
 
@@ -62,14 +68,42 @@ I maintain several npm packages and contribute to open-source projects:
 
 ---
 
-## GitHub Activity
+## Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@larebsyed">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Wakatime Stats" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=larebsyed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+## Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larebsyed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=larebsyed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</p>
+
+### Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=larebsyed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
