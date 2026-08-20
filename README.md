@@ -1,10 +1,18 @@
-# Hi, I'm Lareb Khalil Syed
+# Hi, I'm Lareb Khalil Syed 👋
+
+<p align="center">
+  <a href="https://github.com/larebsyed">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Tech+Lead+%40+LabXChange+(Harvard%2FAmgen);9%2B+Years+Building+Scalable+Web+Apps;React+%7C+TypeScript+%7C+Python+%7C+Django;Open+to+Tech+Lead+%2F+EM+Roles" alt="Typing SVG" />
+  </a>
+</p>
 
 **Tech Lead & Senior Software Engineer** with 9+ years of experience building scalable web applications and leading engineering teams. Currently architecting educational technology at LabXChange (Harvard/Amgen initiative).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larebsyed/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lareb_khalil_syed@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larebsyed)
+<p align="center">
+  <a href="https://www.linkedin.com/in/larebsyed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lareb_khalil_syed@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/larebsyed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -121,7 +129,18 @@ React hook for creating interactive demos with mouse movement
 
 ## Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=larebsyed&theme=dark&hide_border=false)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larebsyed&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/larebsyed/larebsyed/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
@@ -132,10 +151,6 @@ React hook for creating interactive demos with mouse movement
     <img src="https://github-profile-trophy.vercel.app/?username=larebsyed&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
-
-### Top Contributed Repo
-
-![](https://github-profile-trophy.vercel.app/?username=larebsyed&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
