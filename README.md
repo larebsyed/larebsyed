@@ -130,16 +130,12 @@ React hook for creating interactive demos with mouse movement
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larebsyed&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larebsyed&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=larebsyed&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larebsyed&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=larebsyed&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/larebsyed/larebsyed/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
